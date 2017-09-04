@@ -1,7 +1,5 @@
-cloud-to-butt
+Hylle(r) til verb
 =============
-
-![](logo.png)
 
 Chrome extension that replaces occurrences of 'hylle(r)' with a random verb.
 
