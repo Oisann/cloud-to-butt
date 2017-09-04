@@ -1,5 +1,5 @@
 {
-	"manifest_version": 1,
+	"manifest_version": 2,
 	"name": "Hylle(r) til verb",
 	"version": "1.0",
 	"description": "Replaces the text 'hylle(r)' with a random verb.",
