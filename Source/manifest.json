@@ -1,8 +1,8 @@
 {
-	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"manifest_version": 1,
+	"name": "Hylle(r) til verb",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Replaces the text 'hylle(r)' with a random verb.",
 	"content_scripts": 
 	[
 		{
